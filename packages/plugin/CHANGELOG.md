@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.3.0 - 2024-09-02
+
+#### 🚀 Updates
+
+- Support for Page Options - Hide Inherited [#150] (#151) ([19c8bff](https://github.com/milesj/docusaurus-plugin-typedoc-api/commit/19c8bff)), closes [#150](https://github.com/milesj/docusaurus-plugin-typedoc-api/issues/150) [#151](https://github.com/milesj/docusaurus-plugin-typedoc-api/issues/151)
+- Support for reference tag [#153] (#154) ([6cea7f9](https://github.com/milesj/docusaurus-plugin-typedoc-api/commit/6cea7f9)), closes [#153](https://github.com/milesj/docusaurus-plugin-typedoc-api/issues/153) [#154](https://github.com/milesj/docusaurus-plugin-typedoc-api/issues/154)
+
+**Note:** Version bump only for package docusaurus-plugin-typedoc-api
+
+
+
+
+
 ### 4.2.1 - 2024-08-04
 
 #### 🐞 Fixes
