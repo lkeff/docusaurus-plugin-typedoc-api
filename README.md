@@ -1,5 +1,7 @@
 # docusaurus-plugin-typedoc-api
 
+> ## This project is no longer actively maintained! TypeScript and TypeDoc continually release breaking changes that make keeping this project in a workable state very difficult. It's not worth my time, so if you need this project, I suggest forking it.
+
 ![Build](https://github.com/milesj/docusaurus-plugin-typedoc-api/actions/workflows/build.yml/badge.svg?branch=master)
 [![npm version](https://badge.fury.io/js/docusaurus-plugin-typedoc-api.svg)](https://www.npmjs.com/package/docusaurus-plugin-typedoc-api)
 
