@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 4.4.0 - 2024-09-08
+
+#### 🚀 Updates
+
+- Support and require Docusaurus 3.5 (#156) ([5a3824a](https://github.com/milesj/docusaurus-plugin-typedoc-api/commit/5a3824a)), closes [#156](https://github.com/milesj/docusaurus-plugin-typedoc-api/issues/156)
+
+**Note:** Version bump only for package docusaurus-plugin-typedoc-api
+
+
+
+
+
 ## 4.3.0 - 2024-09-02
 
 #### 🚀 Updates
