@@ -1,13 +1,7 @@
-   
-module.exports = {
-	// ...
-	plugins: [
-
 /* eslint-disable sort-keys */
-
+import type { Config } from '@docusaurus/types';
 import path from 'path';
 import { themes } from 'prism-react-renderer';
-import type { Config } from '@docusaurus/types';
 
 let versions: string[] = [];
 
