@@ -1,4 +1,4 @@
-js
+   
 module.exports = {
 	// ...
 	plugins: [
