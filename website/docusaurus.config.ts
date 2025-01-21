@@ -1,3 +1,8 @@
+js
+module.exports = {
+	// ...
+	plugins: [
+
 /* eslint-disable sort-keys */
 
 import path from 'path';
